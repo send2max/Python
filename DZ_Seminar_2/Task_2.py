@@ -6,11 +6,6 @@
 # - пусть N = 4, тогда [ 1, 2, 6, 24 ] (1, 1*2, 1*2*3, 1*2*3*4)
 
 
-
-
-from unittest import result
-
-
 number = int(input('Введите число: '))
 res = 1
 if number < 0:
